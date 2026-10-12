@@ -3,15 +3,12 @@
 __pycache__/
 _pdflib/
 
-# 原始数据集（体积大，可从 Qilin-IR-50K 重新获取）
-data/*.jsonl
-data/optional/*.jsonl
-
-# 大体积中间产物：分词结果、倒排/位置索引、TF-IDF 矩阵、语义向量、压缩二进制
-# （统计/汇总 JSON 与人工标注 CSV 保留入库，可由脚本从原始数据复现）
-output/
-report/
-report_data/
+# 各实验（LAB_*）的大体积内容不入库：原始数据集、实验输出、报告与报告数据附件
+# 统计/汇总 JSON 可由脚本从原始数据完整复现；停用词表与数据说明是复现必需，保留入库
+LAB_*/data/*
+LAB_*/output/
+LAB_*/report/
+LAB_*/report_data/
 
 # LaTeX 编译中间产物
 *.aux

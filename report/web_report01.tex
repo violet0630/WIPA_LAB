@@ -68,10 +68,9 @@
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 
 % ====== 基本信息：提交前填写 ======
-\newcommand{\leadername}{\underline{\hspace{20mm}}}
-\newcommand{\leaderid}{\underline{\hspace{30mm}}}
+\newcommand{\leadername}{龚夏瑜}
 \newcommand{\members}{\begin{tabular}[t]{@{}ll@{}}龚夏瑜 & PB24331921\\黄蕴 & PB24331918\\陈熙 & PB24331924\end{tabular}}
-\newcommand{\cloudlink}{\underline{\hspace{70mm}}}
+\newcommand{\cloudlink}{https://pan.ustc.edu.cn/group/home/60002193}
 \newcommand{\sysinfo}{Windows 11；Intel i7-13650HX；16\,GB 内存；Python 3.13}
 % ================================
 
@@ -90,7 +89,7 @@
   \begingroup
   \renewcommand{\arraystretch}{1.55}
   \begin{tabularx}{0.94\linewidth}{@{}p{25mm}Y@{}}
-    组长 & \leadername\quad 学号：\leaderid\\[3pt]
+    组长 & \leadername\quad \\[3pt]
     小组成员 & \members\\[4pt]
     运行环境 & \sysinfo\\[3pt]
     附件索引 & \cloudlink\\[3pt]
@@ -556,15 +555,9 @@ Raw 在本次查询集上的平均 P@10 为 0.533，MRR@10 为 1.000，即每条
 后续可扩大真实查询样本，并将 \path{search_logs} 中的点击记录作为补充相关性信号，同时保留人工判断，以进一步检查结论的适用范围。
 
 \vspace{2mm}
-\begin{thebibliography}{9}
-\setlength{\itemsep}{0pt}
-\bibitem{req}《实验一：信息检索部分》，课程实验要求，2026。
-\bibitem{slides}《Web 信息处理与应用》，第三节“网页索引”课程课件，索引压缩部分。
-\bibitem{qilin} THUIR / 小红书，Qilin 数据集及课程教学子集 Qilin-IR-50K；\url{https://huggingface.co/datasets/THUIR/Qilin}。
-\bibitem{logs} 本实验各阶段输出的 JSON 统计、布尔检索基准、语义检索对照 JSON 与人工相关性 CSV（随代码和索引归档）。
-\end{thebibliography}
 
-\Needspace{10\baselineskip}
+
+\Needspace{20\baselineskip}
 \appendix
 \section{代码与输出数据对照}\label{app:files}
 全部脚本在项目根目录执行，命令形式为 \texttt{python src/}\textnormal{脚本名}\texttt{.py}。100 篇和 1,000 篇规模用于正确性检查；\texttt{all} 表示 50,000 篇全量数据。各任务的代码与主要输出如下，具体命令见 \path{src/README.md}。
@@ -584,7 +577,5 @@ Raw 在本次查询集上的平均 P@10 为 0.533，MRR@10 为 1.000，即每条
 \end{table}
 
 \vspace{2mm}
-
-\noindent\textbf{提交前核对：}补全组长姓名、学号和科大云盘链接，核对已有成员信息；复核 \path{output/4/semantic/relevance_labels_*.csv} 中的相关性标签，尤其是新增 8 条查询对应的 212 条标题与正文预览判断记录；将源代码、核心索引和统计文件按课程要求归档。
 
 \end{document}

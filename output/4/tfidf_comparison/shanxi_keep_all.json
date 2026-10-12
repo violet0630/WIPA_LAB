@@ -1,0 +1,83 @@
+{
+  "query": "山西 古建 壁画",
+  "query_tokens": [
+    "山西",
+    "古建",
+    "壁画"
+  ],
+  "oov": [],
+  "variant": "keep",
+  "positive_score_documents": 86,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 4,
+      "doc_id": 601,
+      "cosine_similarity": 0.689037,
+      "title": "《山西：古建壁画与花馍共绘的艺术画卷》"
+    },
+    {
+      "rank": 2,
+      "doc_no": 35637,
+      "doc_id": 1455576,
+      "cosine_similarity": 0.262729,
+      "title": "南方人被北京的干燥震惊到"
+    },
+    {
+      "rank": 3,
+      "doc_no": 24005,
+      "doc_id": 1107392,
+      "cosine_similarity": 0.245228,
+      "title": "古埃及壁画"
+    },
+    {
+      "rank": 4,
+      "doc_no": 47247,
+      "doc_id": 1852213,
+      "cosine_similarity": 0.201687,
+      "title": "25山西定向选调生招生大纲变化较大👏👏"
+    },
+    {
+      "rank": 5,
+      "doc_no": 4985,
+      "doc_id": 314977,
+      "cosine_similarity": 0.175842,
+      "title": "北齐壁画博物馆Plog"
+    },
+    {
+      "rank": 6,
+      "doc_no": 17922,
+      "doc_id": 924436,
+      "cosine_similarity": 0.172822,
+      "title": "想看看你家很哇塞的壁画🥹"
+    },
+    {
+      "rank": 7,
+      "doc_no": 35161,
+      "doc_id": 1440684,
+      "cosine_similarity": 0.148463,
+      "title": "敦煌纹样绘制过程"
+    },
+    {
+      "rank": 8,
+      "doc_no": 7023,
+      "doc_id": 433132,
+      "cosine_similarity": 0.145761,
+      "title": "nan"
+    },
+    {
+      "rank": 9,
+      "doc_no": 30059,
+      "doc_id": 1287121,
+      "cosine_similarity": 0.14421,
+      "title": "简答|埃及壁画的特点"
+    },
+    {
+      "rank": 10,
+      "doc_no": 13987,
+      "doc_id": 806454,
+      "cosine_similarity": 0.141366,
+      "title": "晚霞日落拍照小技巧📸进来浅学一下"
+    }
+  ]
+}

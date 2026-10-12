@@ -1,0 +1,7 @@
+{
+  "model": "BAAI/bge-small-zh-v1.5",
+  "max_seq_length": 512,
+  "vocabulary_size": 20885,
+  "embedding_dim": 512,
+  "term_vectors_unit_normalized": true
+}

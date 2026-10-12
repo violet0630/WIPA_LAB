@@ -1,0 +1,24 @@
+{
+  "documents": 50000,
+  "limit": 0,
+  "fmm_max_word_len": 6,
+  "stopword_count": 31,
+  "methods": {
+    "fmm": {
+      "segmentation_seconds": 15.4108,
+      "tokens_keep": 6759956,
+      "tokens_drop": 5999688,
+      "vocabulary_keep_size": 115215,
+      "vocabulary_drop_size": 115184,
+      "stopword_removed_ratio": 0.1125
+    },
+    "hmm": {
+      "segmentation_seconds": 39.4705,
+      "tokens_keep": 6631225,
+      "tokens_drop": 5750165,
+      "vocabulary_keep_size": 388632,
+      "vocabulary_drop_size": 388601,
+      "stopword_removed_ratio": 0.1329
+    }
+  }
+}

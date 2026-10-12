@@ -1,0 +1,26 @@
+{
+  "size": "all",
+  "variant": "keep",
+  "method": "FMM",
+  "documents": 50000,
+  "vocabulary_size": 115215,
+  "input_token_occurrences": 6759956,
+  "unique_term_document_pairs": 4074930,
+  "tf_definition": "raw term frequency (count)",
+  "idf_definition": "log((1+N)/(1+df)) + 1",
+  "normalization": "L2 per document (cosine)",
+  "fields": [
+    "title",
+    "content"
+  ],
+  "field_weights": [
+    1.0,
+    1.0
+  ],
+  "dtype": "float32",
+  "elapsed_seconds_including_io": 9.4088,
+  "matrix_file_bytes": 22733326,
+  "vocab_file_bytes": 1301406,
+  "idf_file_bytes": 460988,
+  "docids_file_bytes": 1867095
+}

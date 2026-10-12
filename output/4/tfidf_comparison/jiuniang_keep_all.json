@@ -1,0 +1,82 @@
+{
+  "query": "酒酿好处",
+  "query_tokens": [
+    "酒酿",
+    "好处"
+  ],
+  "oov": [],
+  "variant": "keep",
+  "positive_score_documents": 339,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 34020,
+      "doc_id": 1406373,
+      "cosine_similarity": 0.601712,
+      "title": "酒酿搭配天花板！女生定期吃出好气色"
+    },
+    {
+      "rank": 2,
+      "doc_no": 25990,
+      "doc_id": 1166009,
+      "cosine_similarity": 0.449608,
+      "title": "自制最伟大的酒酿豆花。。。你就吃吧！！！！"
+    },
+    {
+      "rank": 3,
+      "doc_no": 16996,
+      "doc_id": 896506,
+      "cosine_similarity": 0.427559,
+      "title": "ᴅʀɪɴᴋ｜浅尝一杯☕️入秋咖啡🍁把秋天装进杯里"
+    },
+    {
+      "rank": 4,
+      "doc_no": 44585,
+      "doc_id": 1723248,
+      "cosine_similarity": 0.425515,
+      "title": "酒酿牛奶，🍬水铺喝过一次，没想到这么简单。"
+    },
+    {
+      "rank": 5,
+      "doc_no": 10312,
+      "doc_id": 621979,
+      "cosine_similarity": 0.414958,
+      "title": "酒酿蛋 | 三分钟快速早餐 | 暖身补血也养颜"
+    },
+    {
+      "rank": 6,
+      "doc_no": 22855,
+      "doc_id": 1071976,
+      "cosine_similarity": 0.402635,
+      "title": "酒酿丰胸打卡第五天"
+    },
+    {
+      "rank": 7,
+      "doc_no": 36179,
+      "doc_id": 1471017,
+      "cosine_similarity": 0.396685,
+      "title": "𝗗𝗿𝗶𝗻𝗸｜酒酿冰奶✨火爆全网！谁喝谁迷糊！"
+    },
+    {
+      "rank": 8,
+      "doc_no": 18651,
+      "doc_id": 945318,
+      "cosine_similarity": 0.380561,
+      "title": "无糖‼️会上头💕咖啡酒酿燕麦伪千层盒子"
+    },
+    {
+      "rank": 9,
+      "doc_no": 3435,
+      "doc_id": 222763,
+      "cosine_similarity": 0.375311,
+      "title": "女人一辈子都离不开醪糟‼️"
+    },
+    {
+      "rank": 10,
+      "doc_no": 15983,
+      "doc_id": 866353,
+      "cosine_similarity": 0.364451,
+      "title": "吃完就变大🐻美女呐（做法在文案）"
+    }
+  ]
+}

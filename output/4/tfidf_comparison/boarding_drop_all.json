@@ -1,0 +1,82 @@
+{
+  "query": "收藏 登机牌",
+  "query_tokens": [
+    "收藏",
+    "登机牌"
+  ],
+  "oov": [],
+  "variant": "drop",
+  "positive_score_documents": 821,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 1,
+      "doc_id": 147,
+      "cosine_similarity": 0.684028,
+      "title": "有收藏登机牌的习惯吗？"
+    },
+    {
+      "rank": 2,
+      "doc_no": 6386,
+      "doc_id": 394674,
+      "cosine_similarity": 0.279381,
+      "title": "拍了4.62万元！这种“1元硬币”谁还留着？"
+    },
+    {
+      "rank": 3,
+      "doc_no": 23927,
+      "doc_id": 1105086,
+      "cosine_similarity": 0.262241,
+      "title": "家人们别拒绝，别拒绝❌……收藏再收藏！"
+    },
+    {
+      "rank": 4,
+      "doc_no": 49420,
+      "doc_id": 1952438,
+      "cosine_similarity": 0.244066,
+      "title": "nan"
+    },
+    {
+      "rank": 5,
+      "doc_no": 38842,
+      "doc_id": 1546704,
+      "cosine_similarity": 0.223277,
+      "title": "这时候有人就要问了：我收藏的模板都去哪了？"
+    },
+    {
+      "rank": 6,
+      "doc_no": 23934,
+      "doc_id": 1105283,
+      "cosine_similarity": 0.185272,
+      "title": "越南出差注意事项"
+    },
+    {
+      "rank": 7,
+      "doc_no": 8779,
+      "doc_id": 531726,
+      "cosine_similarity": 0.168465,
+      "title": "吉隆坡同时携带新旧护照过海关被阻"
+    },
+    {
+      "rank": 8,
+      "doc_no": 6935,
+      "doc_id": 427271,
+      "cosine_similarity": 0.153384,
+      "title": "不得不说韩国烟包装设计的真是漂亮！"
+    },
+    {
+      "rank": 9,
+      "doc_no": 48686,
+      "doc_id": 1930293,
+      "cosine_similarity": 0.144092,
+      "title": "大学生用一年从买贵宾厅到卖贵宾厅"
+    },
+    {
+      "rank": 10,
+      "doc_no": 36123,
+      "doc_id": 1469346,
+      "cosine_similarity": 0.133826,
+      "title": "境外出差报销需要哪些材料？怎么报销？"
+    }
+  ]
+}

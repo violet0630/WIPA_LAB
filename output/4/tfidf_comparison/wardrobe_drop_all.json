@@ -1,0 +1,83 @@
+{
+  "query": "衣柜 颜色 搭配",
+  "query_tokens": [
+    "衣柜",
+    "颜色",
+    "搭配"
+  ],
+  "oov": [],
+  "variant": "drop",
+  "positive_score_documents": 3196,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 42139,
+      "doc_id": 1647862,
+      "cosine_similarity": 0.605986,
+      "title": "nan"
+    },
+    {
+      "rank": 2,
+      "doc_no": 33543,
+      "doc_id": 1391626,
+      "cosine_similarity": 0.596231,
+      "title": "姐妹们，我为了装金属衣柜踩了这么多坑❗️"
+    },
+    {
+      "rank": 3,
+      "doc_no": 20736,
+      "doc_id": 1008376,
+      "cosine_similarity": 0.556462,
+      "title": "我后悔啊！当初金属衣柜如果这么搞…"
+    },
+    {
+      "rank": 4,
+      "doc_no": 33416,
+      "doc_id": 1387220,
+      "cosine_similarity": 0.539829,
+      "title": "全屋定制｜衣柜定制一定要知道的尺寸"
+    },
+    {
+      "rank": 5,
+      "doc_no": 20246,
+      "doc_id": 994160,
+      "cosine_similarity": 0.515742,
+      "title": "自装金属衣柜避坑 保姆级攻略"
+    },
+    {
+      "rank": 6,
+      "doc_no": 23303,
+      "doc_id": 1086039,
+      "cosine_similarity": 0.51486,
+      "title": "请大数据推给喜欢金属衣柜的装修人🙋"
+    },
+    {
+      "rank": 7,
+      "doc_no": 18152,
+      "doc_id": 931340,
+      "cosine_similarity": 0.513134,
+      "title": "网上很火的货架衣柜也翻车了…..还是别做了"
+    },
+    {
+      "rank": 8,
+      "doc_no": 13027,
+      "doc_id": 777544,
+      "cosine_similarity": 0.493569,
+      "title": "为了没甲醛，新家买了个铁皮衣柜！"
+    },
+    {
+      "rank": 9,
+      "doc_no": 23324,
+      "doc_id": 1086689,
+      "cosine_similarity": 0.470546,
+      "title": "🇲🇾我真的不想🌹着RM26k呐😭"
+    },
+    {
+      "rank": 10,
+      "doc_no": 38446,
+      "doc_id": 1535561,
+      "cosine_similarity": 0.449014,
+      "title": "金属衣柜选什么柜门❓抄作业💡"
+    }
+  ]
+}

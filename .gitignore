@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+_pdflib/
+
+# 原始数据集（体积大，可从 Qilin-IR-50K 重新获取）
+data/*.jsonl
+data/optional/*.jsonl
+
+# 大体积中间产物：分词结果、倒排/位置索引、TF-IDF 矩阵、语义向量、压缩二进制
+# （统计/汇总 JSON 与人工标注 CSV 保留入库，可由脚本从原始数据复现）
+output/**/*.jsonl
+output/**/*.npy
+output/**/*.npz
+output/**/compressed_*/
+
+# LaTeX 编译中间产物
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk

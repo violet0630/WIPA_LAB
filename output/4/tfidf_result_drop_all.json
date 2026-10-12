@@ -1,0 +1,85 @@
+{
+  "query": "有 收藏 登机牌 的 习惯 吗",
+  "query_tokens": [
+    "有",
+    "收藏",
+    "登机牌",
+    "习惯"
+  ],
+  "oov": [],
+  "size": "all",
+  "variant": "drop",
+  "positive_score_documents": 18817,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 1,
+      "doc_id": 147,
+      "cosine_similarity": 0.611266,
+      "title": "有收藏登机牌的习惯吗？"
+    },
+    {
+      "rank": 2,
+      "doc_no": 6386,
+      "doc_id": 394674,
+      "cosine_similarity": 0.243723,
+      "title": "拍了4.62万元！这种“1元硬币”谁还留着？"
+    },
+    {
+      "rank": 3,
+      "doc_no": 23927,
+      "doc_id": 1105086,
+      "cosine_similarity": 0.228772,
+      "title": "家人们别拒绝，别拒绝❌……收藏再收藏！"
+    },
+    {
+      "rank": 4,
+      "doc_no": 14827,
+      "doc_id": 831119,
+      "cosine_similarity": 0.219334,
+      "title": "好习惯养成"
+    },
+    {
+      "rank": 5,
+      "doc_no": 49420,
+      "doc_id": 1952438,
+      "cosine_similarity": 0.212916,
+      "title": "nan"
+    },
+    {
+      "rank": 6,
+      "doc_no": 38842,
+      "doc_id": 1546704,
+      "cosine_similarity": 0.19478,
+      "title": "这时候有人就要问了：我收藏的模板都去哪了？"
+    },
+    {
+      "rank": 7,
+      "doc_no": 18434,
+      "doc_id": 939643,
+      "cosine_similarity": 0.177705,
+      "title": "保持身材的习惯有哪些呢？"
+    },
+    {
+      "rank": 8,
+      "doc_no": 23934,
+      "doc_id": 1105283,
+      "cosine_similarity": 0.161625,
+      "title": "越南出差注意事项"
+    },
+    {
+      "rank": 9,
+      "doc_no": 4978,
+      "doc_id": 314685,
+      "cosine_similarity": 0.159645,
+      "title": "幼儿园好习惯"
+    },
+    {
+      "rank": 10,
+      "doc_no": 8779,
+      "doc_id": 531726,
+      "cosine_similarity": 0.146964,
+      "title": "吉隆坡同时携带新旧护照过海关被阻"
+    }
+  ]
+}

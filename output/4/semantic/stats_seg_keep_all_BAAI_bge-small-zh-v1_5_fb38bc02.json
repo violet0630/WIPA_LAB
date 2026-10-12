@@ -1,0 +1,16 @@
+{
+  "model": "BAAI/bge-small-zh-v1.5",
+  "model_key": "BAAI_bge-small-zh-v1_5_fb38bc02",
+  "mode": "seg_keep",
+  "size": "all",
+  "documents": 50000,
+  "embedding_dim": 512,
+  "max_seq_length": 512,
+  "encoding": "independent term embeddings, frequency weighted average, L2 normalize",
+  "tokenizer": "model native tokenizer for all encodings",
+  "term_vocab_size": 115215,
+  "elapsed_seconds_including_io": 8.471,
+  "matrix_file_bytes": 102400128,
+  "vectors_file": "D:\\study\\web\\实验\\output\\4\\semantic\\embeddings_seg_keep_all_BAAI_bge-small-zh-v1_5_fb38bc02.npy",
+  "raw_text_truncation_note": "原文超过模型 max_seq_length 时由模型 tokenizer 截断"
+}

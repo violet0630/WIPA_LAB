@@ -1,0 +1,84 @@
+{
+  "query": "考研 英语 复习 经验",
+  "query_tokens": [
+    "考研",
+    "英语",
+    "复习",
+    "经验"
+  ],
+  "oov": [],
+  "variant": "keep",
+  "positive_score_documents": 2887,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 27058,
+      "doc_id": 1197304,
+      "cosine_similarity": 0.630054,
+      "title": "英一90｜分享一下我的备考经验😜"
+    },
+    {
+      "rank": 2,
+      "doc_no": 13444,
+      "doc_id": 791307,
+      "cosine_similarity": 0.566511,
+      "title": "拒绝模版化的考研英语作文模版"
+    },
+    {
+      "rank": 3,
+      "doc_no": 16068,
+      "doc_id": 868788,
+      "cosine_similarity": 0.561961,
+      "title": "考研真题｜2024年考研英一，oi小鬼快来尝试"
+    },
+    {
+      "rank": 4,
+      "doc_no": 34305,
+      "doc_id": 1414355,
+      "cosine_similarity": 0.538046,
+      "title": "考研英语"
+    },
+    {
+      "rank": 5,
+      "doc_no": 38054,
+      "doc_id": 1524424,
+      "cosine_similarity": 0.51119,
+      "title": "nan"
+    },
+    {
+      "rank": 6,
+      "doc_no": 19320,
+      "doc_id": 967394,
+      "cosine_similarity": 0.459346,
+      "title": "脑袋空空必须要看的考研写作词汇—王江涛"
+    },
+    {
+      "rank": 7,
+      "doc_no": 5710,
+      "doc_id": 356381,
+      "cosine_similarity": 0.454217,
+      "title": "26考研可以准备起来了，⌚️时间节点别忘记"
+    },
+    {
+      "rank": 8,
+      "doc_no": 33655,
+      "doc_id": 1395011,
+      "cosine_similarity": 0.429071,
+      "title": "nan"
+    },
+    {
+      "rank": 9,
+      "doc_no": 47563,
+      "doc_id": 1870543,
+      "cosine_similarity": 0.426902,
+      "title": "玄学的风终究是刮到了考研圈"
+    },
+    {
+      "rank": 10,
+      "doc_no": 15482,
+      "doc_id": 850918,
+      "cosine_similarity": 0.425158,
+      "title": "肖老继续划重点！背诵不要停啊家人们！！"
+    }
+  ]
+}

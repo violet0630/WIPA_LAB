@@ -1,0 +1,88 @@
+{
+  "query": "适合学生党的平价护肤品有哪些推荐",
+  "query_tokens": [
+    "适合",
+    "学生",
+    "党",
+    "平价",
+    "护肤品",
+    "有",
+    "哪些",
+    "推荐"
+  ],
+  "oov": [],
+  "variant": "drop",
+  "positive_score_documents": 23351,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 10505,
+      "doc_id": 633744,
+      "cosine_similarity": 0.322368,
+      "title": "📍🇭🇰香港院校的地理位置分布"
+    },
+    {
+      "rank": 2,
+      "doc_no": 36410,
+      "doc_id": 1477562,
+      "cosine_similarity": 0.296075,
+      "title": "冬季平价穿搭！一口气10件！！！"
+    },
+    {
+      "rank": 3,
+      "doc_no": 31215,
+      "doc_id": 1320856,
+      "cosine_similarity": 0.262222,
+      "title": "学生党秋冬卫衣分享 | 📣内搭单穿都适合！"
+    },
+    {
+      "rank": 4,
+      "doc_no": 22503,
+      "doc_id": 1061421,
+      "cosine_similarity": 0.25386,
+      "title": "鼠标不用贵，好用就行！！！"
+    },
+    {
+      "rank": 5,
+      "doc_no": 44433,
+      "doc_id": 1718275,
+      "cosine_similarity": 0.250169,
+      "title": "人手一件的白t❗️❗️平价百搭"
+    },
+    {
+      "rank": 6,
+      "doc_no": 9354,
+      "doc_id": 566109,
+      "cosine_similarity": 0.249792,
+      "title": "🇲🇾Shopee新手平价彩妆🎀高颜值还巨实用！"
+    },
+    {
+      "rank": 7,
+      "doc_no": 11129,
+      "doc_id": 671203,
+      "cosine_similarity": 0.242084,
+      "title": "贴这么近都很难看出的小耳钉哦"
+    },
+    {
+      "rank": 8,
+      "doc_no": 12150,
+      "doc_id": 730555,
+      "cosine_similarity": 0.241592,
+      "title": "学生党拒绝不了的百元蓝牙耳机🎧藏不住了！！"
+    },
+    {
+      "rank": 9,
+      "doc_no": 41597,
+      "doc_id": 1630795,
+      "cosine_similarity": 0.236302,
+      "title": "这个牌子要吗"
+    },
+    {
+      "rank": 10,
+      "doc_no": 14184,
+      "doc_id": 812010,
+      "cosine_similarity": 0.234972,
+      "title": "开学季！来个双肩包🎒大合集！"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "query": "咖啡 做法 教程",
+  "query_tokens": [
+    "咖啡",
+    "做法",
+    "教程"
+  ],
+  "oov": [],
+  "variant": "drop",
+  "positive_score_documents": 2476,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 26266,
+      "doc_id": 1173920,
+      "cosine_similarity": 0.483111,
+      "title": "为什么咖啡爱好者只爱喝美式？"
+    },
+    {
+      "rank": 2,
+      "doc_no": 9020,
+      "doc_id": 546013,
+      "cosine_similarity": 0.466287,
+      "title": "为啥咖啡爱好者只喝美式"
+    },
+    {
+      "rank": 3,
+      "doc_no": 48771,
+      "doc_id": 1932546,
+      "cosine_similarity": 0.406826,
+      "title": "多年咖啡建议：热门黑咖啡别乱跟风！"
+    },
+    {
+      "rank": 4,
+      "doc_no": 33293,
+      "doc_id": 1383082,
+      "cosine_similarity": 0.392923,
+      "title": "买家用咖啡机，这些基本的你要知道"
+    },
+    {
+      "rank": 5,
+      "doc_no": 47382,
+      "doc_id": 1858672,
+      "cosine_similarity": 0.377627,
+      "title": "今天10块钱的快乐是manner给的！"
+    },
+    {
+      "rank": 6,
+      "doc_no": 47603,
+      "doc_id": 1872852,
+      "cosine_similarity": 0.376959,
+      "title": "🌈 到底什么算黑咖啡❓看懂美式意式手冲滴滤"
+    },
+    {
+      "rank": 7,
+      "doc_no": 47831,
+      "doc_id": 1885910,
+      "cosine_similarity": 0.374532,
+      "title": "海底捞我来了！"
+    },
+    {
+      "rank": 8,
+      "doc_no": 14009,
+      "doc_id": 807130,
+      "cosine_similarity": 0.372945,
+      "title": "鸟叔咖啡日记|摩卡壶手把手两种做法教程"
+    },
+    {
+      "rank": 9,
+      "doc_no": 12527,
+      "doc_id": 752443,
+      "cosine_similarity": 0.365248,
+      "title": "你有见过用意式咖啡机做手冲咖啡吗？"
+    },
+    {
+      "rank": 10,
+      "doc_no": 8710,
+      "doc_id": 527772,
+      "cosine_similarity": 0.354447,
+      "title": "主流咖啡店各自的☕️咖啡杯容量"
+    }
+  ]
+}

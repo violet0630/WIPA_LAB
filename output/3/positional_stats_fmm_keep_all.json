@@ -1,0 +1,14 @@
+{
+  "method": "fmm",
+  "variant": "keep",
+  "size": "all",
+  "doc_count": 50000,
+  "vocabulary_size": 115215,
+  "posting_pairs_unique_term_document": 4074930,
+  "input_token_occurrences": 6759956,
+  "indexed_position_occurrences": 6759956,
+  "shards": 64,
+  "position_definition": "0-based token indices in normalized title_keep/content_keep separately",
+  "positional_jsonl_bytes": 82303329,
+  "elapsed_seconds_including_io": 19.1543
+}

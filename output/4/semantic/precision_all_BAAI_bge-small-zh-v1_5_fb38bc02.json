@@ -1,0 +1,338 @@
+[
+  {
+    "query": "收藏 登机牌",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "收藏 登机牌",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "收藏 登机牌",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "收藏 登机牌",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "有 收藏 登机牌 的 习惯 吗",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "有 收藏 登机牌 的 习惯 吗",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 0,
+    "precision_at_k": 0.0
+  },
+  {
+    "query": "有 收藏 登机牌 的 习惯 吗",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "有 收藏 登机牌 的 习惯 吗",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "山西 古建 壁画",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 2,
+    "precision_at_k": 0.2
+  },
+  {
+    "query": "山西 古建 壁画",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "山西 古建 壁画",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 2,
+    "precision_at_k": 0.2
+  },
+  {
+    "query": "山西 古建 壁画",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 2,
+    "precision_at_k": 0.2
+  },
+  {
+    "query": "平价 护肤品 学生党",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 7,
+    "precision_at_k": 0.7
+  },
+  {
+    "query": "平价 护肤品 学生党",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "平价 护肤品 学生党",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "平价 护肤品 学生党",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 0,
+    "precision_at_k": 0.0
+  },
+  {
+    "query": "旅行 攻略 民宿",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 10,
+    "precision_at_k": 1.0
+  },
+  {
+    "query": "旅行 攻略 民宿",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 9,
+    "precision_at_k": 0.9
+  },
+  {
+    "query": "旅行 攻略 民宿",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 8,
+    "precision_at_k": 0.8
+  },
+  {
+    "query": "旅行 攻略 民宿",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 5,
+    "precision_at_k": 0.5
+  },
+  {
+    "query": "考研 英语 复习 经验",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 8,
+    "precision_at_k": 0.8
+  },
+  {
+    "query": "考研 英语 复习 经验",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 4,
+    "precision_at_k": 0.4
+  },
+  {
+    "query": "考研 英语 复习 经验",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 3,
+    "precision_at_k": 0.3
+  },
+  {
+    "query": "考研 英语 复习 经验",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 4,
+    "precision_at_k": 0.4
+  },
+  {
+    "query": "咖啡 做法 教程",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 8,
+    "precision_at_k": 0.8
+  },
+  {
+    "query": "咖啡 做法 教程",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 8,
+    "precision_at_k": 0.8
+  },
+  {
+    "query": "咖啡 做法 教程",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 7,
+    "precision_at_k": 0.7
+  },
+  {
+    "query": "咖啡 做法 教程",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 6,
+    "precision_at_k": 0.6
+  },
+  {
+    "query": "北京 故宫 门票",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 3,
+    "precision_at_k": 0.3
+  },
+  {
+    "query": "北京 故宫 门票",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 0,
+    "precision_at_k": 0.0
+  },
+  {
+    "query": "北京 故宫 门票",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 0,
+    "precision_at_k": 0.0
+  },
+  {
+    "query": "北京 故宫 门票",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "减肥 运动 食谱",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 10,
+    "precision_at_k": 1.0
+  },
+  {
+    "query": "减肥 运动 食谱",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 9,
+    "precision_at_k": 0.9
+  },
+  {
+    "query": "减肥 运动 食谱",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 9,
+    "precision_at_k": 0.9
+  },
+  {
+    "query": "减肥 运动 食谱",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 8,
+    "precision_at_k": 0.8
+  },
+  {
+    "query": "衣柜 颜色 搭配",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 6,
+    "precision_at_k": 0.6
+  },
+  {
+    "query": "衣柜 颜色 搭配",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 2,
+    "precision_at_k": 0.2
+  },
+  {
+    "query": "衣柜 颜色 搭配",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 2,
+    "precision_at_k": 0.2
+  },
+  {
+    "query": "衣柜 颜色 搭配",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "酒酿好处",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 4,
+    "precision_at_k": 0.4
+  },
+  {
+    "query": "酒酿好处",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "酒酿好处",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "酒酿好处",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 4,
+    "precision_at_k": 0.4
+  },
+  {
+    "query": "适合学生党的平价护肤品有哪些推荐",
+    "method": "raw",
+    "retrieved": 10,
+    "relevant_in_top": 4,
+    "precision_at_k": 0.4
+  },
+  {
+    "query": "适合学生党的平价护肤品有哪些推荐",
+    "method": "seg_keep",
+    "retrieved": 10,
+    "relevant_in_top": 0,
+    "precision_at_k": 0.0
+  },
+  {
+    "query": "适合学生党的平价护肤品有哪些推荐",
+    "method": "seg_drop",
+    "retrieved": 10,
+    "relevant_in_top": 1,
+    "precision_at_k": 0.1
+  },
+  {
+    "query": "适合学生党的平价护肤品有哪些推荐",
+    "method": "tfidf",
+    "retrieved": 10,
+    "relevant_in_top": 0,
+    "precision_at_k": 0.0
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "query": "北京 故宫 门票",
+  "query_tokens": [
+    "北京",
+    "故宫",
+    "门票"
+  ],
+  "oov": [],
+  "variant": "drop",
+  "positive_score_documents": 1463,
+  "top_k": [
+    {
+      "rank": 1,
+      "doc_no": 40832,
+      "doc_id": 1608046,
+      "cosine_similarity": 0.578467,
+      "title": "已经准备去故宫打雪仗了"
+    },
+    {
+      "rank": 2,
+      "doc_no": 34188,
+      "doc_id": 1410981,
+      "cosine_similarity": 0.544327,
+      "title": "逛故宫，去之前的准备工作❗️❗️这篇足够了🫵"
+    },
+    {
+      "rank": 3,
+      "doc_no": 22729,
+      "doc_id": 1067890,
+      "cosine_similarity": 0.488465,
+      "title": "来故宫修个文物..."
+    },
+    {
+      "rank": 4,
+      "doc_no": 28740,
+      "doc_id": 1247926,
+      "cosine_similarity": 0.461118,
+      "title": "大型纪录片《我在故宫卖文物》"
+    },
+    {
+      "rank": 5,
+      "doc_no": 42235,
+      "doc_id": 1650571,
+      "cosine_similarity": 0.418857,
+      "title": "北京超级超级冷啊🥶🥶🥶"
+    },
+    {
+      "rank": 6,
+      "doc_no": 39126,
+      "doc_id": 1555539,
+      "cosine_similarity": 0.401396,
+      "title": "认准北京这里。。。CBD贼好拍了！！！"
+    },
+    {
+      "rank": 7,
+      "doc_no": 42573,
+      "doc_id": 1661016,
+      "cosine_similarity": 0.392032,
+      "title": "带爸妈去北京5次...锁死这家故宫旁小院"
+    },
+    {
+      "rank": 8,
+      "doc_no": 912,
+      "doc_id": 80869,
+      "cosine_similarity": 0.376898,
+      "title": "初中阅读里的名人来到了眼前"
+    },
+    {
+      "rank": 9,
+      "doc_no": 401,
+      "doc_id": 50516,
+      "cosine_similarity": 0.374078,
+      "title": "北京！！什刹海！！200块😭😭住四合院"
+    },
+    {
+      "rank": 10,
+      "doc_no": 2442,
+      "doc_id": 166171,
+      "cosine_similarity": 0.373715,
+      "title": "香港🇭🇰听单霁翔院长讲故宫的故事"
+    }
+  ]
+}

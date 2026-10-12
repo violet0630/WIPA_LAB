@@ -1,0 +1,17 @@
+{
+  "method": "fmm",
+  "size": "100",
+  "modes": [
+    "raw",
+    "front",
+    "vbyte",
+    "both"
+  ],
+  "verification": "sample",
+  "source_terms": 5409,
+  "decoded_and_compared_terms": 102,
+  "decoded_and_compared_posting_pairs": 287,
+  "decoded_and_compared_occurrences": 944,
+  "passed": true,
+  "elapsed_seconds_including_io": 0.1823
+}
